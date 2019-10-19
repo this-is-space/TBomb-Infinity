@@ -24,6 +24,9 @@ cd TBomb
 cd TBomb-Infinity
 
 chmod +x TBomb-Infinite.py
+
+
+
 python3 TBomb-Infinite.py
 
 
