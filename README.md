@@ -23,8 +23,8 @@ cd TBomb
 
 cd TBomb-Infinity
 
-
-python3 TBomb-Infinity.py
+chmod +x TBomb-Infinite.py
+python3 TBomb-Infinite.py
 
 
 SMS count in TBomb might Frezze But Dont worry Its Working........
