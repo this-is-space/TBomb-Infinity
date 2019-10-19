@@ -30,6 +30,10 @@ cd TBomb
 
 ./TBomb.sh
 
+
+
+*Make Sure You Choose Zero for Infinity*
+
 *Session 2::------->>>>>>*
 
 
