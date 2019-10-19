@@ -10,6 +10,18 @@ Run TBomb in Infinite Mode in Session 1
 and 
 Run TBomb-Infinity in Another Session
 
+
+
+
+
+# Install
+
+cd TBomb-Infinity
+
+
+python3 install.py
+
+
 # Commands
 *Session 1  ::::----->>>>>*
 
