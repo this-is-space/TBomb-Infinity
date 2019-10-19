@@ -30,6 +30,13 @@ chmod +x TBomb-Infinite.py
 python3 TBomb-Infinite.py
 
 
+# TO Update 
+
+cd TBomb-Infinity
+
+
+python3 update.py
+
 SMS count in TBomb might Frezze But Dont worry Its Working........
 Go With The Counts In TBomb-Infinity
  # Not Working For Calls Properly
