@@ -39,11 +39,11 @@ cd TBomb
 
 cd TBomb-Infinity
 
-chmod +x TBomb-Infinite.py
+chmod +x TBomb-Infinity.py
 
 
 
-python3 TBomb-Infinite.py
+python3 TBomb-Infinity.py
 
 
 # TO Update 
